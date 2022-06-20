@@ -63,7 +63,7 @@
 
 ## 🌀 Deploy To Okteto
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Randi356/KillerX-Music)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/UnoDark/KillerX-Music)
 
 # SCREENSHOT 
 ![Screenshot_20220603-110840_Nekogram~01](https://user-images.githubusercontent.com/63757267/171784392-ded5a455-1dbf-42c1-aa56-3cf078551bae.png)
